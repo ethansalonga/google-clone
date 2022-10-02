@@ -16,6 +16,7 @@
 
 Simple clone of google.com that utilizes the Google Custom Search JSON API. Built with React.js, this project uses several resources and features:
 - React Context API
+- Material UI
 - React Router
 - Custom hooks
 - Firebase hosting
